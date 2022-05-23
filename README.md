@@ -7,7 +7,7 @@
 - [x]   Docker
 - [ ]   three.js
 - [ ]   Kafka
-[I'm an inline-style link](https://www.google.com)
+
  
   
  
