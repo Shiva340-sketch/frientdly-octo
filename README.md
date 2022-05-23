@@ -2,7 +2,7 @@
 > * The skills I will learn this year 
 
 
- - [x]  Golang
+ - [x]  Golang (https//wwww.https://go.dev/)
 - [ ]   Nestjs
 - [x]   Docker
 - [ ]   Elasticsearch
