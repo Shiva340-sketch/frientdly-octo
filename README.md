@@ -1,8 +1,8 @@
 # frientdly-octo
-> *The skills I will learn this year 
+> * The skills I will learn this year 
 
 
-> -[x] HTML
-> [] CSS
-> [] javascript
-> 
+ - [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+ 
