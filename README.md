@@ -3,7 +3,7 @@
 
 
  - [x] [Golang](https://go.dev/)
-- [ ]   Nestjs
+- [ ]   [Nestjs](https://nestjs.com/)
 - [x]   Docker
 - [ ]   three.js
 - [ ]   Kafka
