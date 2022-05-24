@@ -6,7 +6,7 @@
 - [ ]   [Nestjs](https://nestjs.com/)
 - [x]   [Docker](https://www.docker.com/)
 - [ ]   [three.js](https://threejs.org/)
-- [ ]   [Kafka]
+- [ ]   [Kafka](https://kafka.apache.org/)
 
  
   
